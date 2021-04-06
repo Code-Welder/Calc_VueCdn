@@ -1,5 +1,5 @@
 # Calc with Vue cdn
 
-[**link**](http://example.com/link "Калькулятор")
+[**link**](https://code-welder.github.io/Calc_VueCdn "Калькулятор")
 
 First attempt at working with **Vue**
